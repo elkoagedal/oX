@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5C2DF33F6C8106BEDA8B2301FB7A34308D026334",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5C2DF33F6C8106BEDA8B2301FB7A34308D026334" : 9223372036854775807,
+    "E1BD0C46CCD67EF1A64D9D7DD34A59C4EF975BFA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1E47A0D3-2E56-42DA-82C7-2B4FBC452EC3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5C2DF33F6C8106BEDA8B2301FB7A34308D026334" : "oX\/",
+    "E1BD0C46CCD67EF1A64D9D7DD34A59C4EF975BFA" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "oX",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "oX\/oX.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/elkoagedal\/oX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5C2DF33F6C8106BEDA8B2301FB7A34308D026334"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/elkoagedal\/FoodTracker2.0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E1BD0C46CCD67EF1A64D9D7DD34A59C4EF975BFA"
+    }
+  ]
+}
